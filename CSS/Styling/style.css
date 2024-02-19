@@ -1,0 +1,15 @@
+h2{
+    text-align:center;
+    background-color:crimson;
+    color: white;
+}
+p{
+    background-color: black;
+    color: white;
+    text-align: right;
+}
+h3{
+    text-align:center;
+    background-color: chocolate;
+    color:chartreuse;
+}
