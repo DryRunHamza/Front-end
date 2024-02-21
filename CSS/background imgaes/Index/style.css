@@ -1,0 +1,21 @@
+body{
+    background-image: url(../image/bread-8503298_1280.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+}
+.container{
+    margin:auto;
+    height: 200px;
+    width: 300px;
+    background-color:beige;
+    text-align: center;
+    background-image: url(../image/pngegg.png);
+    background-size: cover;
+}   
+.row{
+    color:rgb(151, 56, 56);
+} 
